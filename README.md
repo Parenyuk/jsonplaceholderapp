@@ -1,15 +1,6 @@
-# Start react without all the fluff
+In this project directory you can run:
+npm start
 
-**Clone Repo**
+Open http://localhost:3000 to view it in the browser.
 
-`git clone https://github.com/vallisweekes/react-without-react-scripts.git`
 
-**Install all Dependencies**
-
-`npm i`
-
----
-
-**Install all Dependencies**
-
-`npm start`
